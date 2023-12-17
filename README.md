@@ -13,7 +13,7 @@ Pascaline Uwamahoro
 
 Technical Stack:
 
-Backend: Python (Django) Frontend: React.js Project Goals:
+HTML and CSS Project Goals:
 
 Problem
 
@@ -23,7 +23,7 @@ and up-to-date information about birth trends and patterns.
 
 Solution
 
-The baby birth dashboard aims to address these challenges by creating a centralized platform for collecting, visualizing, and analyzing baby birth data. The dashboard 
+The baby birth dashboard recoerd management aims to address these challenges by creating a centralized platform for collecting, visualizing, and analyzing baby birth data. The dashboard 
 will connect to various data sources and automatically extract and aggregate data into a central repository. This will eliminate the need for manual data entry and 
 ensure that the data is always up-to-date. and will help parent to make follow up to his baby at early stage.
 
